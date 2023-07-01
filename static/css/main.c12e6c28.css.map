@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.c12e6c28.css","mappings":"AAAA,UAKE,qBAAuB,CACvB,WAHA,WAAY,CACZ,QAAU,CAFV,UAKF","sources":["index.scss"],"sourcesContent":["html, \nbody{\n  width: 100%;\n  height: 100%;\n  margin:0px;\n  background-color: black;\n  color: white\n}\n"],"names":[],"sourceRoot":""}
